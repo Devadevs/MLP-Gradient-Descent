@@ -2,8 +2,6 @@
 
 ## Learning Objectives
 
-By the end of this lesson, you will be able to:
-
 - Understand the process of training a deep learning model using the Sequential API and MLP gradient descent.
 - Create graphs to visualize the evolution of loss and accuracy metrics during model training.
 - Deploy Keras from TensorFlow and compare the accuracy of a deep learning model with regular linear regression.
